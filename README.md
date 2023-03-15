@@ -624,9 +624,9 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Some simple questions to interview potential backend candidates](https://github.com/starandtina/backend-interview-questions)
 
 ## Design Patterns
-* [Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm)
-* [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans)
-* [Design Patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
+* [Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm) - working 
+* [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans) -working
+* [Design Patterns implemented in Java](https://github.com/iluwatar/java-design-patterns) - working
 * [Design Patterns implemented in DotNet](https://www.dofactory.com/net/design-patterns)
 
 ## Data structures
